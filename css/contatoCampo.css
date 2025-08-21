@@ -14,7 +14,7 @@
   text-align: center;
   background-color: #80e3f4;
   transform: translate(-7px, -3px);
-  border: 1px solid #7D7D7D;
+  border: 1px solid #8eb4e7;
   color: transparent;
   line-height: 1;
   transition: .2s ease-in;
@@ -56,7 +56,7 @@
   padding: .5em;
   min-height: 50px;
   border-radius: 8px;
-  border: 2px solid #ccc;
+  border: 2px solid #7ba1db;
   outline: 0;
 } 
 
